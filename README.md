@@ -4,6 +4,7 @@
 *Free software that turns a 360° basketball recording into an HD video that follows the action.*
 
 🌐 **Sito / Website:** https://mantrasoftware.github.io
+▶ **Video:** https://www.youtube.com/@mantrasoftwarehouse
 
 ---
 
