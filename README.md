@@ -41,7 +41,7 @@ Dentro il programma (pulsante **Aiuto**) e sul sito: [Guida di Mantra 360](https
 
 - **Domande, idee, consigli sulle riprese:** [Discussions](https://github.com/mantrasoftware/mantra-for-basket/discussions) (uno spazio unico per entrambi i programmi)
 - **Qualcosa non funziona:** [Issues](https://github.com/mantrasoftware/mantra-360/issues) — descrivi cosa stavi facendo, cosa ti aspettavi e cosa è successo.
-- **Email:** MantraSoftwareHouse@proton.me
+- **Email:** mantrasoftware2026@gmail.com
 
 ## Licenza
 
